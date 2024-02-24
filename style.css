@@ -1,0 +1,68 @@
+.navbar-links a{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+
+.header-all{
+    margin-top: 120px;
+    margin-left: 336px;
+}
+
+.exercise img{
+    width: 243px;
+    height: 137px;
+}
+
+.travel img{
+    margin-left: -12px;
+}
+
+.row{
+    margin-left: 300px;
+    margin-top: 220px;
+}
+
+.small-img img{
+    width: 243px;
+    height: 137px;
+}
+
+.small-img{
+    margin-left: 192px;
+    margin-top: -230px;
+}
+
+.col-5 input{
+    width: 376px;
+    height: 38px;
+    border-radius: 8px;
+    border: 1px solid #E5E7EB;
+}
+
+.col-5 button{
+    width: 82px;
+    height: 38px;
+    border-radius: 6px;
+    background: #353732;
+}
+
+.none img{
+    width: 200px;
+    height: 122px;
+    border-radius: 10px;
+}
+
+.tag-text{
+    margin-top: 55px;
+    margin-left: 310px;
+}
+
+.links{
+    margin-left: 666px;
+}
+
+.footer{
+    margin-left: 336px;
+    margin-top: 200px;
+}
